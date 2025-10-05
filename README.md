@@ -1,4 +1,4 @@
-# USTCrobogame_-
+# USTCrobogame_南七镖局队
 学校机器人比赛代码及其他工程文件
 ## f103zet6 
 这个文件夹是基于f103zet6单片机的全部下位机代码
